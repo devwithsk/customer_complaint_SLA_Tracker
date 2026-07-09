@@ -43,6 +43,15 @@ The solution automatically:
 
 This enables support managers to take proactive action before SLA breaches occur and improve overall service quality.
 
+# 📸 Snapshot
+---
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/16ffc15b-fd95-4d6d-b080-0d5d2e3e2014" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/efa2ab16-2233-48b4-8ef4-6005b6043f48" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8bf9e8ac-6e12-465b-9faf-78058269fc57" />
+
 ---
 
 # 🎯 Key Features
